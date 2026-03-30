@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
 
 ## 👨‍🎓 Student Details
-* **Name:**  
-* **Registration Number:** 
+* **Name:**  PRIYANSH AGRAWAL
+* **Registration Number:** 24BAI10488
 
 ## 📖 Project Description
 Welcome to my capstone project! I decided to focus on **Git** for this assignment. Git is a distributed version control system that pretty much runs the modern software world. I chose it because even though I use it practically every day to save my code, I don't think I ever really appreciated *how* it works or the philosophy behind it. It's a perfect example of how open-source developers scratching their own itch can end up changing how everyone collaborates.
